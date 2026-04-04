@@ -142,14 +142,15 @@ latest_posts:
   </div>
   <div class="home-intro-copy">
     <p>
-      Snowball Lab is part of the Department of Computer Science at Purdue
-      University. We create novel sensing technologies, signal processing and
-      machine learning methods, low-power systems, and embedded intelligence to
-      address important real-world problems. Our work spans applications in
-      wearable computing, health, and human-computer interaction. We are
-      particularly interested in building systems that are practical for
-      everyday life, scalable beyond research prototypes, and robust for
-      long-term deployment in real-world settings.
+      Snowball Lab is part of the
+      <a href="https://www.cs.purdue.edu/" target="_blank" rel="noopener noreferrer">Department of Computer Science at Purdue University</a>.
+      We create novel sensing technologies, signal processing and machine
+      learning methods, low-power systems, and embedded intelligence to address
+      important real-world problems. Our work spans applications in wearable
+      computing, health, and human-computer interaction. We are particularly
+      interested in building systems that are practical for everyday life,
+      scalable beyond research prototypes, and robust for long-term deployment
+      in real-world settings.
     </p>
   </div>
 </div>
