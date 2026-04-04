@@ -57,7 +57,9 @@
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
       {% assign author_array_limit = author_array_size %}
-      {% assign lab_member_names = "Qiuyue (Shirley) Xue|Jiayi (Maggie) Shao|Jiayi Shao|Aarav Wadhwani|Feng Ye|Aylen Kim|Jang Hoon Lee|Jiaying Ye|Yaroslave Stetsko" | split: "|" %}
+      {% assign lab_member_names = 'Qiuyue (Shirley) Xue|Jiayi (Maggie) Shao|Jiayi Shao|Aarav Wadhwani|Feng Ye|Aylen Kim|Jang Hoon Lee|Jiaying Ye|Yaroslave Stetsko'
+        | split: '|'
+      %}
 
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_lab_member = false %}
