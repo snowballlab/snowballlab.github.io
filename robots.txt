@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://snowballlab.github.io/snowballlab/sitemap.xml
