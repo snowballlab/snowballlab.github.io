@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: Memebers
+title: Members
 description: members of the Snowball Lab
 nav: true
 nav_order: 2
