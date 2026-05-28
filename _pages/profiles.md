@@ -142,7 +142,7 @@ hide_title: true
   </div>
   <div class="person-card student-card">
     <img class="person-photo" src="/assets/img/profile_pic/yaroslave_stetsko.JPG" alt="Yaroslave Stetsko">
-    <p class="person-name">Yaroslave Stetsko</p>
+    <p class="person-name">Yaroslav Stetsko</p>
     <p class="person-role">CS undergrad</p>
   </div>
   <div class="person-card student-card">
