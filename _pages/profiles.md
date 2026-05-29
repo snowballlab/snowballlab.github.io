@@ -150,4 +150,9 @@ hide_title: true
     <p class="person-name">Richard Li</p>
     <p class="person-role">CE undergrad</p>
   </div>
+  <div class="person-card student-card">
+    <img class="person-photo" src="/assets/img/profile_pic/Soleil_Pham.jpeg" alt="Soleil Pham">
+    <p class="person-name">Soleil Pham</p>
+    <p class="person-role">CS undergrad</p>
+  </div>
 </div>
