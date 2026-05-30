@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are co-orgnizing the "Everyday Wearables for Personalized Health and Well-Being" Workshop at CHI2026, join us there!
+We are excited to organize the ["Everyday Wearables for Personalized Health and Well-Being" Workshop](https://everydaywearableforhealth.github.io/) at CHI 2026, join us there!
