@@ -155,4 +155,9 @@ hide_title: true
     <p class="person-name">Antara Durbha</p>
     <p class="person-role">CS undergrad</p>
   </div>
+  <div class="person-card student-card">
+    <img class="person-photo" src="/assets/img/profile_pic/Qiyu_Ji.jpg" alt="Qiyu Ji">
+    <p class="person-name">Qiyu Ji</p>
+    <p class="person-role">CS undergrad</p>
+  </div>
 </div>
