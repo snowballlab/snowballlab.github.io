@@ -160,4 +160,9 @@ hide_title: true
     <p class="person-name">Qiyu Ji</p>
     <p class="person-role">CS undergrad</p>
   </div>
+  <div class="person-card student-card">
+    <img class="person-photo" src="/assets/img/profile_pic/Rishabh_Goenka.png" alt="Rishabh Goenka">
+    <p class="person-name">Rishabh Goenka</p>
+    <p class="person-role">UW ECE undergrad</p>
+  </div>
 </div>
