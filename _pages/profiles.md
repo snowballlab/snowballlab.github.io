@@ -16,6 +16,11 @@ hide_title: true
     margin-top: 0.75rem;
   }
 
+  /* keeps a partly-filled row left-aligned instead of stretching to fill */
+  .people-grid.grid-fill {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  }
+
   .person-card {
     border-radius: 12px;
     padding: 1rem;
@@ -67,6 +72,11 @@ hide_title: true
     margin: 0 auto;
   }
 
+  /* wraps the photo when the member has a link; keeps the bare-<img> layout */
+  .person-photo-link {
+    display: block;
+  }
+
   .person-desc {
     margin: 0.65rem 0 0;
     line-height: 1.45;
@@ -89,25 +99,27 @@ hide_title: true
 
 <div class="people-grid pi-section">
   <div class="person-card pi-card">
-    <img class="person-photo" src="/assets/img/Shirley_Xue.jpg" alt="Qiuyue (Shirley) Xue">
+    <a class="person-photo-link" href="https://xueqiuyue.com/" target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true"><img class="person-photo" src="/assets/img/Shirley_Xue.jpg" alt="Qiuyue (Shirley) Xue"></a>
     <div class="pi-copy">
       <p class="person-name"><a href="https://xueqiuyue.com/" target="_blank" rel="noopener noreferrer">Qiuyue (Shirley) Xue</a></p>
       <p class="person-email">qiuyue at purdue dot edu</p>
-      <p class="person-desc">
-        Qiuyue (Shirley) Xue is an Assistant Professor in the Department of
-        Computer Science at Purdue University. She earned her Ph.D. in Computer
-        Science and Engineering from the University of Washington, an M.S. in
-        Computer Science from Georgia Institute of Technology, and dual B.S.
-        degrees in Computer Science and Electrical Engineering from Peking
-        University. Her research focuses on ubiquitous computing,
-        human-computer interaction, wearable computing, mobile health, novel
-        sensing, and low-power embedded systems.
-      </p>
+      <p class="person-desc">Assistant professor<br />
+        Department of Computer Science, Purdue University</p>
     </div>
   </div>
 </div>
 
-## Students
+## PhD Students
+
+<div class="people-grid grid-fill">
+  <div class="person-card student-card">
+    <a class="person-photo-link" href="https://zelo-415.github.io/" target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true"><img class="person-photo" src="/assets/img/profile_pic/Leyi_Zou.jpg" alt="Leyi Zou"></a>
+    <p class="person-name"><a href="https://zelo-415.github.io/" target="_blank" rel="noopener noreferrer">Leyi Zou</a></p>
+    <p class="person-role">CS PhD Student</p>
+  </div>
+</div>
+
+## Undergrad and MS
 
 <div class="people-grid">
   <div class="person-card student-card">
