@@ -138,11 +138,6 @@ hide_title: true
     <p class="person-role">Engineering undergrad</p>
   </div>
   <div class="person-card student-card">
-    <img class="person-photo" src="/assets/img/profile_pic/Aylen_kim.jpg" alt="Aylen Kim">
-    <p class="person-name">Aylen Kim</p>
-    <p class="person-role">Biomedical undergrad</p>
-  </div>
-  <div class="person-card student-card">
     <img class="person-photo" src="/assets/img/profile_pic/Jang-Hoon-Lee.jpg" alt="Jang Hoon Lee">
     <p class="person-name">Jang Hoon Lee</p>
     <p class="person-role">CS undergrad</p>
@@ -176,5 +171,20 @@ hide_title: true
     <img class="person-photo" src="/assets/img/profile_pic/Rishabh_Goenka.png" alt="Rishabh Goenka">
     <p class="person-name">Rishabh Goenka</p>
     <p class="person-role">UW ECE undergrad</p>
+  </div>
+  <div class="person-card student-card">
+    <img class="person-photo" src="/assets/img/profile_pic/Bisti_Potdar.jpg" alt="Bisti Potdar">
+    <p class="person-name">Bisti Potdar</p>
+    <p class="person-role">CS undergrad</p>
+  </div>
+  <div class="person-card student-card">
+    <img class="person-photo" src="/assets/img/profile_pic/Utkarsh_Majithia.PNG" alt="Utkarsh Majithia">
+    <p class="person-name">Utkarsh Majithia</p>
+    <p class="person-role">Student</p>
+  </div>
+  <div class="person-card student-card">
+    <img class="person-photo" src="/assets/img/profile_pic/Yizheng_Jiang.jpg" alt="Yizheng Jiang">
+    <p class="person-name">Yizheng Jiang</p>
+    <p class="person-role">CIT undergrad</p>
   </div>
 </div>
